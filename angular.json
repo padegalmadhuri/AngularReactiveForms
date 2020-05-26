@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reactiveforms"
+    }
+  },
+  "defaultProject": "reactiveforms",
+  "cli": {
+    "analytics": "f9cc9ad4-3bc4-424b-9454-c4c66553dcc8"
+  }
 }
